@@ -1,6 +1,6 @@
 #  油そば - AburaSoba
 
-!(aburasoba.jpg)[油そば]
+<img src="aburasoba.jpg" width="500">
 
 ## 材料
 
